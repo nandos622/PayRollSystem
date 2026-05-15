@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PayRollSystem/PayRollSystem.csproj" Id="b0324b64-b6f1-4684-a912-19bae77f3bd8" />
+  <Project Path="PayRollSystemTest/PayRollSystemTest.csproj" Id="c1dc9a64-b5bf-4158-a99e-12f365fe1f91" />
+</Solution>
